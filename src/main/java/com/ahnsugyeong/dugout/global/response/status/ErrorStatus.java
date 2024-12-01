@@ -1,4 +1,4 @@
-package com.ahnsugyeong.dugout.common.response.status;
+package com.ahnsugyeong.dugout.global.response.status;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

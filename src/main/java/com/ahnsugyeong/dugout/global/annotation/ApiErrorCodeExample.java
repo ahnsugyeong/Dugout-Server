@@ -1,6 +1,6 @@
-package com.ahnsugyeong.dugout.common.annotation;
+package com.ahnsugyeong.dugout.global.annotation;
 
-import com.ahnsugyeong.dugout.common.response.status.ErrorStatus;
+import com.ahnsugyeong.dugout.global.response.status.ErrorStatus;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

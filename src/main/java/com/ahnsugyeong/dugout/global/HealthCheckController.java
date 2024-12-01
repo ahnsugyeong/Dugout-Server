@@ -1,6 +1,6 @@
-package com.ahnsugyeong.dugout.common;
+package com.ahnsugyeong.dugout.global;
 
-import com.ahnsugyeong.dugout.common.response.ResponseDto;
+import com.ahnsugyeong.dugout.global.response.ResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
