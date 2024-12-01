@@ -1,7 +1,7 @@
-package com.ahnsugyeong.dugout.common.response;
+package com.ahnsugyeong.dugout.global.response;
 
-import com.ahnsugyeong.dugout.common.response.status.BaseStatus;
-import com.ahnsugyeong.dugout.common.response.status.SuccessStatus;
+import com.ahnsugyeong.dugout.global.response.status.BaseStatus;
+import com.ahnsugyeong.dugout.global.response.status.SuccessStatus;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,12 +1,11 @@
-package com.ahnsugyeong.dugout.config;
+package com.ahnsugyeong.dugout.global.config;
 
-import com.ahnsugyeong.dugout.common.annotation.ApiErrorCodeExample;
-import com.ahnsugyeong.dugout.common.dto.ExampleHolder;
-import com.ahnsugyeong.dugout.common.response.ResponseDto;
-import com.ahnsugyeong.dugout.common.response.status.ErrorStatus;
+import com.ahnsugyeong.dugout.global.annotation.ApiErrorCodeExample;
+import com.ahnsugyeong.dugout.global.dto.ExampleHolder;
+import com.ahnsugyeong.dugout.global.response.ResponseDto;
+import com.ahnsugyeong.dugout.global.response.status.ErrorStatus;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.Operation;
 import io.swagger.v3.oas.models.examples.Example;

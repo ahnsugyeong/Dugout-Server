@@ -1,4 +1,4 @@
-package com.ahnsugyeong.dugout.common.dto;
+package com.ahnsugyeong.dugout.global.dto;
 
 import io.swagger.v3.oas.models.examples.Example;
 import lombok.Builder;

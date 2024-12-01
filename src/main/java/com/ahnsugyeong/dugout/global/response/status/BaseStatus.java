@@ -1,4 +1,4 @@
-package com.ahnsugyeong.dugout.common.response.status;
+package com.ahnsugyeong.dugout.global.response.status;
 
 import org.springframework.http.HttpStatus;
 
